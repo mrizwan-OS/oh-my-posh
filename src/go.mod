@@ -11,7 +11,7 @@ require (
 	github.com/esimov/stackblur-go v1.1.1
 	github.com/fogleman/gg v1.3.0
 	github.com/google/uuid v1.6.0
-	github.com/gookit/color v1.6.2
+	github.com/gookit/color v1.6.3
 	github.com/huandu/xstrings v1.5.0 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/sergi/go-diff v1.4.0 // indirect
@@ -30,7 +30,7 @@ require (
 	github.com/charmbracelet/bubbles v1.0.0
 	github.com/charmbracelet/bubbletea v1.3.10
 	github.com/charmbracelet/lipgloss v1.1.0
-	github.com/gookit/goutil v0.8.2
+	github.com/gookit/goutil v0.8.3
 	github.com/hashicorp/hcl/v2 v2.25.0
 	github.com/invopop/jsonschema v0.14.0
 	github.com/mattn/go-runewidth v0.0.31
